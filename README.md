@@ -10,4 +10,4 @@ The "destination_setup()" function takes four arguments - origin, destination, e
 
 Finally, the code calls the "destination_setup()" function with some example arguments, which produces a message to the user indicating that their trip starts in Ukraine, ends in Spain, and will take approximately 3 hours by plane.
 
-Overall, this code demonstrates how multiple functions can be defined and called to perform different tasks within an application, and how function arguments can be used to customize the behavior of the functions.
+Overall, this code demonstrates how multiple functions can be defined and called to perform different tasks within an application, and how function arguments can be used to customize the behavior of the functions. 
